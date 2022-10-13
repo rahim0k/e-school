@@ -1,0 +1,52 @@
+.container{
+    margin-bottom: 80px;
+}
+
+.btn-all{
+    background-color: green;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 25px;
+    border: none;
+}
+
+.row .p1{
+    color: rgb(225, 93, 45);
+}
+
+.row .h1 span{
+    color: green;
+}
+
+ .row .imm1{
+    width: 100px;
+}
+
+.row .r1{
+    text-align: center;
+    align-items: center;
+    border: none;
+    box-shadow: 1px 1px 5px lightgrey;
+}
+
+.row .r2{
+    border: none;
+    box-shadow: 1px 1px 5px lightgrey;
+}
+
+.row .r3 img{
+    border: none;
+    margin-left: 90px;
+}
+
+.row .r3{
+    border: none;
+}
+
+.row .r4{
+    border: none;
+}
+
+.row .r4 p{
+    margin-right: 90px;
+}
